@@ -1,0 +1,538 @@
+{
+  "audit_groups_shown_top_five": {
+    "currency": [
+      {
+        "creatives": 171,
+        "creatives_passing_gates_for_any_brief": 100,
+        "group": "GBP",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 1.36,
+        "review_flag": false,
+        "share_of_creatives": 0.855,
+        "share_of_slots": 1.0,
+        "slots": 233
+      },
+      {
+        "creatives": 23,
+        "creatives_passing_gates_for_any_brief": 0,
+        "group": "EUR",
+        "lift_vs_random_among_candidates": null,
+        "low_power": false,
+        "mean_slots_per_creative": 0.0,
+        "review_flag": false,
+        "share_of_creatives": 0.115,
+        "share_of_slots": 0.0,
+        "slots": 0
+      },
+      {
+        "creatives": 6,
+        "creatives_passing_gates_for_any_brief": 0,
+        "group": "USD",
+        "lift_vs_random_among_candidates": null,
+        "low_power": true,
+        "mean_slots_per_creative": 0.0,
+        "review_flag": false,
+        "share_of_creatives": 0.03,
+        "share_of_slots": 0.0,
+        "slots": 0
+      }
+    ],
+    "discipline": [
+      {
+        "creatives": 22,
+        "creatives_passing_gates_for_any_brief": 14,
+        "group": "social_media",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 0.91,
+        "review_flag": false,
+        "share_of_creatives": 0.11,
+        "share_of_slots": 0.086,
+        "slots": 20
+      },
+      {
+        "creatives": 22,
+        "creatives_passing_gates_for_any_brief": 12,
+        "group": "videography_editing",
+        "lift_vs_random_among_candidates": 0.83,
+        "low_power": false,
+        "mean_slots_per_creative": 1.36,
+        "review_flag": false,
+        "share_of_creatives": 0.11,
+        "share_of_slots": 0.129,
+        "slots": 30
+      },
+      {
+        "creatives": 20,
+        "creatives_passing_gates_for_any_brief": 11,
+        "group": "motion_animation",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 0.3,
+        "review_flag": false,
+        "share_of_creatives": 0.1,
+        "share_of_slots": 0.026,
+        "slots": 6
+      },
+      {
+        "creatives": 19,
+        "creatives_passing_gates_for_any_brief": 10,
+        "group": "copywriting",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 0.79,
+        "review_flag": false,
+        "share_of_creatives": 0.095,
+        "share_of_slots": 0.064,
+        "slots": 15
+      },
+      {
+        "creatives": 17,
+        "creatives_passing_gates_for_any_brief": 7,
+        "group": "ux_ui_web_design",
+        "lift_vs_random_among_candidates": 0.96,
+        "low_power": false,
+        "mean_slots_per_creative": 2.47,
+        "review_flag": false,
+        "share_of_creatives": 0.085,
+        "share_of_slots": 0.18,
+        "slots": 42
+      },
+      {
+        "creatives": 15,
+        "creatives_passing_gates_for_any_brief": 0,
+        "group": "content_writing",
+        "lift_vs_random_among_candidates": null,
+        "low_power": false,
+        "mean_slots_per_creative": 0.0,
+        "review_flag": false,
+        "share_of_creatives": 0.075,
+        "share_of_slots": 0.0,
+        "slots": 0
+      },
+      {
+        "creatives": 15,
+        "creatives_passing_gates_for_any_brief": 10,
+        "group": "graphic_brand_design",
+        "lift_vs_random_among_candidates": 1.19,
+        "low_power": false,
+        "mean_slots_per_creative": 4.53,
+        "review_flag": false,
+        "share_of_creatives": 0.075,
+        "share_of_slots": 0.292,
+        "slots": 68
+      },
+      {
+        "creatives": 14,
+        "creatives_passing_gates_for_any_brief": 0,
+        "group": "front_end_web_dev",
+        "lift_vs_random_among_candidates": null,
+        "low_power": false,
+        "mean_slots_per_creative": 0.0,
+        "review_flag": false,
+        "share_of_creatives": 0.07,
+        "share_of_slots": 0.0,
+        "slots": 0
+      },
+      {
+        "creatives": 14,
+        "creatives_passing_gates_for_any_brief": 9,
+        "group": "photography",
+        "lift_vs_random_among_candidates": 1.24,
+        "low_power": false,
+        "mean_slots_per_creative": 2.29,
+        "review_flag": false,
+        "share_of_creatives": 0.07,
+        "share_of_slots": 0.137,
+        "slots": 32
+      },
+      {
+        "creatives": 11,
+        "creatives_passing_gates_for_any_brief": 8,
+        "group": "illustration",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 0.55,
+        "review_flag": false,
+        "share_of_creatives": 0.055,
+        "share_of_slots": 0.026,
+        "slots": 6
+      },
+      {
+        "creatives": 10,
+        "creatives_passing_gates_for_any_brief": 6,
+        "group": "3d_cgi",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 0.5,
+        "review_flag": false,
+        "share_of_creatives": 0.05,
+        "share_of_slots": 0.021,
+        "slots": 5
+      },
+      {
+        "creatives": 10,
+        "creatives_passing_gates_for_any_brief": 8,
+        "group": "art_direction",
+        "lift_vs_random_among_candidates": 0.15,
+        "low_power": false,
+        "mean_slots_per_creative": 0.3,
+        "review_flag": true,
+        "share_of_creatives": 0.05,
+        "share_of_slots": 0.013,
+        "slots": 3
+      },
+      {
+        "creatives": 6,
+        "creatives_passing_gates_for_any_brief": 2,
+        "group": "brand_strategy",
+        "lift_vs_random_among_candidates": 0.0,
+        "low_power": true,
+        "mean_slots_per_creative": 0.0,
+        "review_flag": false,
+        "share_of_creatives": 0.03,
+        "share_of_slots": 0.0,
+        "slots": 0
+      },
+      {
+        "creatives": 5,
+        "creatives_passing_gates_for_any_brief": 3,
+        "group": "audio_podcast",
+        "lift_vs_random_among_candidates": null,
+        "low_power": true,
+        "mean_slots_per_creative": 1.2,
+        "review_flag": false,
+        "share_of_creatives": 0.025,
+        "share_of_slots": 0.026,
+        "slots": 6
+      }
+    ],
+    "region": [
+      {
+        "creatives": 67,
+        "creatives_passing_gates_for_any_brief": 33,
+        "group": "London",
+        "lift_vs_random_among_candidates": 1.25,
+        "low_power": false,
+        "mean_slots_per_creative": 1.12,
+        "review_flag": false,
+        "share_of_creatives": 0.335,
+        "share_of_slots": 0.322,
+        "slots": 75
+      },
+      {
+        "creatives": 31,
+        "creatives_passing_gates_for_any_brief": 13,
+        "group": "South East",
+        "lift_vs_random_among_candidates": 1.05,
+        "low_power": false,
+        "mean_slots_per_creative": 1.03,
+        "review_flag": false,
+        "share_of_creatives": 0.155,
+        "share_of_slots": 0.137,
+        "slots": 32
+      },
+      {
+        "creatives": 23,
+        "creatives_passing_gates_for_any_brief": 11,
+        "group": "Scotland",
+        "lift_vs_random_among_candidates": 0.7,
+        "low_power": false,
+        "mean_slots_per_creative": 0.65,
+        "review_flag": false,
+        "share_of_creatives": 0.115,
+        "share_of_slots": 0.064,
+        "slots": 15
+      },
+      {
+        "creatives": 15,
+        "creatives_passing_gates_for_any_brief": 8,
+        "group": "North West",
+        "lift_vs_random_among_candidates": 0.63,
+        "low_power": false,
+        "mean_slots_per_creative": 0.67,
+        "review_flag": true,
+        "share_of_creatives": 0.075,
+        "share_of_slots": 0.043,
+        "slots": 10
+      },
+      {
+        "creatives": 12,
+        "creatives_passing_gates_for_any_brief": 8,
+        "group": "East of England",
+        "lift_vs_random_among_candidates": 1.12,
+        "low_power": false,
+        "mean_slots_per_creative": 2.75,
+        "review_flag": false,
+        "share_of_creatives": 0.06,
+        "share_of_slots": 0.142,
+        "slots": 33
+      },
+      {
+        "creatives": 10,
+        "creatives_passing_gates_for_any_brief": 4,
+        "group": "Yorkshire and the Humber",
+        "lift_vs_random_among_candidates": 1.0,
+        "low_power": false,
+        "mean_slots_per_creative": 0.5,
+        "review_flag": false,
+        "share_of_creatives": 0.05,
+        "share_of_slots": 0.021,
+        "slots": 5
+      },
+      {
+        "creatives": 9,
+        "creatives_passing_gates_for_any_brief": 7,
+        "group": "West Midlands",
+        "lift_vs_random_among_candidates": 1.15,
+        "low_power": true,
+        "mean_slots_per_creative": 3.0,
+        "review_flag": false,
+        "share_of_creatives": 0.045,
+        "share_of_slots": 0.116,
+        "slots": 27
+      },
+      {
+        "creatives": 8,
+        "creatives_passing_gates_for_any_brief": 3,
+        "group": "East Midlands",
+        "lift_vs_random_among_candidates": 0.84,
+        "low_power": true,
+        "mean_slots_per_creative": 1.12,
+        "review_flag": false,
+        "share_of_creatives": 0.04,
+        "share_of_slots": 0.039,
+        "slots": 9
+      },
+      {
+        "creatives": 8,
+        "creatives_passing_gates_for_any_brief": 6,
+        "group": "South West",
+        "lift_vs_random_among_candidates": 0.95,
+        "low_power": true,
+        "mean_slots_per_creative": 2.25,
+        "review_flag": false,
+        "share_of_creatives": 0.04,
+        "share_of_slots": 0.077,
+        "slots": 18
+      },
+      {
+        "creatives": 6,
+        "creatives_passing_gates_for_any_brief": 1,
+        "group": "North East",
+        "lift_vs_random_among_candidates": 0.0,
+        "low_power": true,
+        "mean_slots_per_creative": 0.0,
+        "review_flag": false,
+        "share_of_creatives": 0.03,
+        "share_of_slots": 0.0,
+        "slots": 0
+      },
+      {
+        "creatives": 6,
+        "creatives_passing_gates_for_any_brief": 3,
+        "group": "Wales",
+        "lift_vs_random_among_candidates": 0.78,
+        "low_power": true,
+        "mean_slots_per_creative": 1.33,
+        "review_flag": false,
+        "share_of_creatives": 0.03,
+        "share_of_slots": 0.034,
+        "slots": 8
+      },
+      {
+        "creatives": 5,
+        "creatives_passing_gates_for_any_brief": 3,
+        "group": "Northern Ireland",
+        "lift_vs_random_among_candidates": 0.13,
+        "low_power": true,
+        "mean_slots_per_creative": 0.2,
+        "review_flag": false,
+        "share_of_creatives": 0.025,
+        "share_of_slots": 0.004,
+        "slots": 1
+      }
+    ],
+    "seniority_band": [
+      {
+        "creatives": 72,
+        "creatives_passing_gates_for_any_brief": 40,
+        "group": "midweight",
+        "lift_vs_random_among_candidates": 0.98,
+        "low_power": false,
+        "mean_slots_per_creative": 1.32,
+        "review_flag": false,
+        "share_of_creatives": 0.36,
+        "share_of_slots": 0.408,
+        "slots": 95
+      },
+      {
+        "creatives": 54,
+        "creatives_passing_gates_for_any_brief": 23,
+        "group": "senior",
+        "lift_vs_random_among_candidates": 0.98,
+        "low_power": false,
+        "mean_slots_per_creative": 1.04,
+        "review_flag": false,
+        "share_of_creatives": 0.27,
+        "share_of_slots": 0.24,
+        "slots": 56
+      },
+      {
+        "creatives": 50,
+        "creatives_passing_gates_for_any_brief": 24,
+        "group": "junior",
+        "lift_vs_random_among_candidates": 1.13,
+        "low_power": false,
+        "mean_slots_per_creative": 1.12,
+        "review_flag": false,
+        "share_of_creatives": 0.25,
+        "share_of_slots": 0.24,
+        "slots": 56
+      },
+      {
+        "creatives": 24,
+        "creatives_passing_gates_for_any_brief": 13,
+        "group": "lead",
+        "lift_vs_random_among_candidates": 0.88,
+        "low_power": false,
+        "mean_slots_per_creative": 1.08,
+        "review_flag": false,
+        "share_of_creatives": 0.12,
+        "share_of_slots": 0.112,
+        "slots": 26
+      }
+    ],
+    "work_mode": [
+      {
+        "creatives": 94,
+        "creatives_passing_gates_for_any_brief": 44,
+        "group": "remote",
+        "lift_vs_random_among_candidates": 1.02,
+        "low_power": false,
+        "mean_slots_per_creative": 1.2,
+        "review_flag": false,
+        "share_of_creatives": 0.47,
+        "share_of_slots": 0.485,
+        "slots": 113
+      },
+      {
+        "creatives": 84,
+        "creatives_passing_gates_for_any_brief": 46,
+        "group": "hybrid",
+        "lift_vs_random_among_candidates": 0.99,
+        "low_power": false,
+        "mean_slots_per_creative": 1.18,
+        "review_flag": false,
+        "share_of_creatives": 0.42,
+        "share_of_slots": 0.425,
+        "slots": 99
+      },
+      {
+        "creatives": 22,
+        "creatives_passing_gates_for_any_brief": 10,
+        "group": "on_site",
+        "lift_vs_random_among_candidates": 0.94,
+        "low_power": false,
+        "mean_slots_per_creative": 0.95,
+        "review_flag": false,
+        "share_of_creatives": 0.11,
+        "share_of_slots": 0.09,
+        "slots": 21
+      }
+    ]
+  },
+  "audit_note": "Group fields are used for this audit only. The engine never reads them.",
+  "briefs_summary": {
+    "briefs": 100,
+    "feasible_share_of_shown_matches": 0.215,
+    "matches_but_none_feasible": 41,
+    "no_match_stage_where_pool_reaches_zero": {
+      "essential_skill_missing": 8,
+      "location_incompatible": 32
+    },
+    "with_1_to_4_matches": 19,
+    "with_5_matches": 41,
+    "with_at_least_one_feasible": 19,
+    "with_no_match": 40
+  },
+  "exposure_feasible_only": {
+    "briefs": 100,
+    "briefs_where_ranking_chooses_among_more_than_5": 4,
+    "coverage_among_creatives_passing_gates": 0.909,
+    "coverage_ceiling_creatives_passing_gates_for_any_brief": 44,
+    "coverage_ceiling_share": 0.22,
+    "creative_coverage": 0.2,
+    "creatives_with_exposure": 40,
+    "gini_all_creatives": 0.83,
+    "gini_creatives_passing_gates_for_any_brief": 0.227,
+    "guardrail_coverage_ge_50pct": false,
+    "guardrail_max_exposure_le_20pct": true,
+    "max_exposure_briefs": 2,
+    "max_exposure_creative": "cr_0200",
+    "max_exposure_share": 0.02,
+    "slots_filled": 50,
+    "tier": "feasible",
+    "top10_share_of_slots": 0.4,
+    "zero_exposure_never_passed_gates": 156,
+    "zero_exposure_passed_gates_but_not_top_five": 4
+  },
+  "exposure_shown_top_five": {
+    "briefs": 100,
+    "briefs_where_ranking_chooses_among_more_than_5": 41,
+    "coverage_among_creatives_passing_gates": 0.73,
+    "coverage_ceiling_creatives_passing_gates_for_any_brief": 100,
+    "coverage_ceiling_share": 0.5,
+    "creative_coverage": 0.365,
+    "creatives_with_exposure": 73,
+    "gini_all_creatives": 0.793,
+    "gini_creatives_passing_gates_for_any_brief": 0.587,
+    "guardrail_coverage_ge_50pct": false,
+    "guardrail_max_exposure_le_20pct": true,
+    "max_exposure_briefs": 16,
+    "max_exposure_creative": "cr_0152",
+    "max_exposure_share": 0.16,
+    "slots_filled": 233,
+    "tier": "shown",
+    "top10_share_of_slots": 0.378,
+    "zero_exposure_never_passed_gates": 100,
+    "zero_exposure_passed_gates_but_not_top_five": 27
+  },
+  "meta": {
+    "budget_floor": 0.5,
+    "engine_version": "1.0.0",
+    "label": "SYNTHETIC DATA ONLY. Not market evidence.",
+    "over_budget_zero_at": 1.5,
+    "strong_min": 0.6,
+    "tie_break_seed": 20261125,
+    "top_n": 5,
+    "weights": {
+      "availability": 0.2,
+      "budget": 0.25,
+      "skills": 0.4,
+      "style": 0.15
+    }
+  },
+  "shortlist_simulated_owner": {
+    "S1": {
+      "briefs_shortlisted": 19,
+      "meets_80pct_target": false,
+      "rule": "feasible and covers at least half of the required skills",
+      "shortlist_rate": 0.19
+    },
+    "S2": {
+      "briefs_shortlisted": 15,
+      "meets_80pct_target": false,
+      "rule": "feasible and covers every required skill",
+      "shortlist_rate": 0.15
+    },
+    "S3": {
+      "briefs_shortlisted": 9,
+      "meets_80pct_target": false,
+      "rule": "feasible, covers every required skill and shares a style tag",
+      "shortlist_rate": 0.09
+    },
+    "ceiling_briefs_with_any_feasible_creative": 19
+  }
+}
