@@ -2,7 +2,7 @@
 
 **Status: concept and analytics prototype. All data is synthetic. There are no live users.** Nothing here shows how a real market behaves.
 
-Live demo: [add link here]
+Live demo: (https://divyanshipurohtdigital.github.io/ditto-validation/)
 
 ## Problem
 
